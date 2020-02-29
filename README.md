@@ -1,6 +1,9 @@
 # Machine_Learning.
+---------------------------------------------------
 Machine Learning (Supervised,Unsupervised Learning) 
-Algorithms 
+---------------------------------------------------
+- Algorithms 
+--------------------------------------------
 - Simple Linear Regression
    ( Y= mx + b)
 - Multiple Linear Regression
