@@ -28,12 +28,13 @@ According to (ETP)Rule  Any Program learns with E (Experince) with respect to ta
      - Polynomial Linear Regression  / Multiple Linear Regression
        - Y = mx0 + mx1 + mx2 + .........mxn + b
        - Y=mx0 + mx1^2 + mx2^2 +.....mxn^2 + b
+   
+ - Classification : It gives the discrete result
+     - Logistic Linear Regression
+     - Desicion Tree 
+     - Random Forest
+     - Support Vector Machine (SVM)
      
- 
-  
-  Types of Regression Algorithms: 
- 
- - Classification
  
  
  
