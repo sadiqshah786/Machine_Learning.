@@ -8,9 +8,10 @@ According to (ETP)Rule  Any Program learns with E (Experince) with respect to ta
 
 #### Example 
  ##### Arthur Samuel : In 1950 Introduce the Checkers Game.
- - E  
- - T
- - P
+ - E   : Number of Board did played.
+ - T   : Playing Checker
+ - P   : Win / Loss
+ 
 ----------------------------------
 Machine Learning (Supervised,Unsupervised Learning) 
 ---------------------------------------------------
