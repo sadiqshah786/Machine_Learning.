@@ -17,12 +17,12 @@ According to (ETP)Rule  Any Program learns with E (Experince) with respect to ta
 ---------------------------------------------------
 - There are two main types of ML.
 #### Supervised Learning :
- - Given Write Ansewer (labeled)
+ - Given Write Answer (labeled) to the model.
  - Already given input and Output.
  
  ### Algorithms:
  - There are two main Algorithms of SL.
- - Regression  : It gives the Contineous result.
+ - Regression  : Model gives the Contineous result.
      - Simple Linear Regression
         - Y= mx + b 
      - Polynomial Linear Regression  / Multiple Linear Regression
@@ -34,10 +34,8 @@ According to (ETP)Rule  Any Program learns with E (Experince) with respect to ta
      - Desicion Tree 
      - Random Forest
      - Support Vector Machine (SVM)
-     
- 
- 
- 
- 
- 
-#### - UnSupervised Learning
+      
+####  UnSupervised Learning
+   - NOT given write answer to the model.
+   - Model learns after forming cluster and this technique is called clustring or grouping.
+  
