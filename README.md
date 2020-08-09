@@ -16,5 +16,17 @@ According to (ETP)Rule  Any Program learns with E (Experince) with respect to ta
 ## Types Of Machine Learning : 
 ---------------------------------------------------
 - There are two main types of ML.
-#### - Supervised Learning
+#### Supervised Learning :
+ - Given Write Ansewer (labeled)
+ - Already given input and Output.
+ 
+ ###Algorithms:
+ - There are two main Algorithms of SL.
+ - Regression 
+ - Classification
+ 
+ 
+ 
+ 
+ 
 #### - UnSupervised Learning
