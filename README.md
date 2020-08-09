@@ -13,7 +13,7 @@ According to (ETP)Rule  Any Program learns with E (Experince) with respect to ta
  - P   : Win / Loss
  
 ----------------------------------
-##Types Of Machine Learning : 
+## Types Of Machine Learning : 
 ---------------------------------------------------
 - There are two main types of ML.
 #### - Supervised Learning
