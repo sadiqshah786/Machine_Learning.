@@ -20,9 +20,12 @@ According to (ETP)Rule  Any Program learns with E (Experince) with respect to ta
  - Given Write Ansewer (labeled)
  - Already given input and Output.
  
- ###Algorithms:
+ ### Algorithms:
  - There are two main Algorithms of SL.
- - Regression 
+ - Regression  : It gives the continuous result.
+  
+  Types of Regression Algorithms: 
+ 
  - Classification
  
  
