@@ -1,8 +1,10 @@
 # Machine_Learning.
-According to Arthur Smule : 1959 ability to  perform any task without any explicitly computer program.
-Tom Michal :  According to (ETP) ---> Any Program learns with E (Experince) with respect to task and some perfromance measures & it can imporves according to performance measures.
+ ### Arthur Smule
+ 1959 ability to  perform any task without any explicitly computer program.
+### Tom Michal 
+According to (ETP)Rule  Any Program learns with E (Experince) with respect to task and some perfromance measures & it can imporves according to performance measures.
 
-Example : In 1950 
+#### Example : In 1950 
 ## Arthur Samuel : Introduce the Checkers Game.
 --------------------------------------------------- 
 Machine Learning (Supervised,Unsupervised Learning) 
