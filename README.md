@@ -22,7 +22,14 @@ According to (ETP)Rule  Any Program learns with E (Experince) with respect to ta
  
  ### Algorithms:
  - There are two main Algorithms of SL.
- - Regression  : It gives the continuous result.
+ - Regression  : It gives the Contineous result.
+     - Simple Linear Regression
+        - Y= mx + b 
+     - Polynomial Linear Regression  / Multiple Linear Regression
+       - Y = mx0 + mx1 + mx2 + .........mxn + b
+       - Y=mx0 + mx1^2 + mx2^2 +.....mxn^2 + b
+     
+ 
   
   Types of Regression Algorithms: 
  
