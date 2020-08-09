@@ -8,20 +8,13 @@ According to (ETP)Rule  Any Program learns with E (Experince) with respect to ta
 
 #### Example 
  ##### Arthur Samuel : In 1950 Introduce the Checkers Game.
- - E   : Number of Board did played.
+ - E   : Number of Boards played.
  - T   : Playing Checker
  - P   : Win / Loss
  
 ----------------------------------
-Machine Learning (Supervised,Unsupervised Learning) 
+##Types Of Machine Learning : 
 ---------------------------------------------------
-- Algorithms 
---------------------------------------------
-- Simple Linear Regression
-   ( Y= mx + b)
-- Multiple Linear Regression
-  ( Y = mx0 + mx1 + mx2 + .........mxn + b)
-- Polynomial Linear Regression
-  (Y=mx0 + mx1^2 + mx2^2 +.....mxn^2 + b)
-- Decision Tree Algorithm
-- Random FOrest Algorithm
+- There are two main types of ML.
+#### - Supervised Learning
+#### - UnSupervised Learning
